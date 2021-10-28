@@ -1,1 +1,2 @@
-# coq-hypermaps
+# Hypermaps in Coq
+A formalisation of [hypermaps](https://en.wikipedia.org/wiki/Combinatorial_map) in Coq. Following the paper: "[Designing and proving correct a convex hull algorithm with hypermaps in Coq](https://dl.acm.org/doi/10.1016/j.comgeo.2010.06.006)"
